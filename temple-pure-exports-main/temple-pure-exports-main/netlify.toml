@@ -1,7 +1,7 @@
 [build]
   base = "temple-pure-exports-main"
   command = "npm run build"
-  publish = "temple-pure-exports-main/dist"
+  publish = "dist"
 
 [[redirects]]
   from = "/*"
